@@ -1,0 +1,192 @@
+ID: 4085
+Title: The Adventures of Roderick Random
+Author: Smollett, T. (Tobias)
+Birth Year: 1721
+Subjects: England -- Fiction, Impressment -- Fiction, Picaresque literature, Rogues and vagabonds -- Fiction, Sailors -- Fiction, Scots -- England -- Fiction, Sea stories, Warships -- Fiction
+
+ID: 3332
+Title: The Variation of Animals and Plants under Domestication
+Author: Darwin, Charles
+Birth Year: 1809
+Subjects: Domestic animals, Plants, Cultivated, Variation (Biology)
+
+ID: 56463
+Title: Bacon's Essays, and Wisdom of the Ancients
+Author: Bacon, Francis
+Birth Year: 1561
+Subjects: Bacon, Francis, 1561-1626, English essays -- Early modern, 1500-1700, Mythology, Classical
+
+ID: 52881
+Title: The Joyful Wisdom ("La Gaya Scienza")
+Author: Nietzsche, Friedrich Wilhelm
+Birth Year: 1844
+Subjects: Philosophy
+
+ID: 10741
+Title: The Essays of Arthur Schopenhauer: the Wisdom of Life
+Author: Schopenhauer, Arthur
+Birth Year: 1788
+Subjects: Conduct of life, Maxims
+
+ID: 55752
+Title: Dom Casmurro
+Author: Machado de Assis
+Birth Year: 1839
+Subjects: Adultery -- Fiction, Authorship -- Fiction, Catholic Church -- Fiction, Reminiscing in old age -- Fiction
+
+ID: 821
+Title: Dombey and Son
+Author: Dickens, Charles
+Birth Year: 1812
+Subjects: Businesspeople -- Fiction, Domestic fiction, Dysfunctional families -- Fiction, England -- Fiction, Family-owned business enterprises -- Fiction, Fathers and daughters -- Fiction
+
+ID: 202
+Title: My Bondage and My Freedom
+Author: Douglass, Frederick
+Birth Year: 1818
+Subjects: Abolitionists -- United States -- Biography, African American abolitionists -- Biography, Antislavery movements -- United States -- History -- 19th century, Douglass, Frederick, 1818-1895, Enslaved persons -- Maryland -- Social conditions -- 19th century, Fugitive slaves -- Maryland -- Biography, Plantation life -- Maryland -- History -- 19th century
+
+ID: 20321
+Title: A Brief Account of the Destruction of the Indies: Or, a faithful NARRATIVE OF THE Horrid and Unexampled Massacres, Butcheries, and all manner of Cruelties, that Hell and Malice could invent, committed by the Popish Spanish Party on the inhabitants of West-India, TOGETHER With the Devastations of several Kingdoms in America by Fire and Sword, for the space of Forty and Two Years, from the time of its first Discovery by them.
+Author: Casas, Bartolomé de las
+Birth Year: 1484
+Subjects: Indians, Treatment of -- Latin America, Spain -- Colonies -- America
+
+ID: 17147
+Title: Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil
+Author: Leibniz, Gottfried Wilhelm, Freiherr von
+Birth Year: 1646
+Subjects: Free will and determinism, Theism, Theodicy
+
+ID: 15263
+Title: The Underground Railroad: A Record of Facts, Authentic Narratives, Letters, &c., Narrating the Hardships, Hair-Breadth Escapes and Death Struggles of the Slaves in Their Efforts for Freedom, As Related by Themselves and Others, or Witnessed by the Author.
+Author: Still, William
+Birth Year: 1821
+Subjects: Abolitionists -- United States -- Biography, Antislavery movements -- United States -- History -- 19th century, Fugitive slaves -- United States -- Biography, Fugitive slaves -- United States -- History -- 19th century, Underground Railroad
+
+ID: 9703
+Title: Dombey and Son
+Author: Dickens, Charles
+Birth Year: 1812
+Subjects: Businesspeople -- Fiction, Domestic fiction, Dysfunctional families -- Fiction, England -- Fiction, England -- Social life and customs -- 19th century -- Fiction, Family-owned business enterprises -- Fiction, Fathers and daughters -- Fiction
+
+ID: 11600
+Title: The Life of Marie de Medicis, Queen of France, Consort of Henri IV, and Regent of the Kingdom under Louis XIII — Volume 2
+Author: Pardoe, Miss (Julia)
+Birth Year: null
+Subjects: Marie de Médicis, Queen, consort of Henry IV, King of France, 1573-1642
+
+ID: 43350
+Title: The Anatomy of the Human Peritoneum and Abdominal Cavity: Considered from the Standpoint of Development and Comparative Anatomy
+Author: Huntington, George S. (George Sumner)
+Birth Year: 1861
+Subjects: Abdomen, Peritoneum
+
+ID: 44638
+Title: Plant Lore, Legends, and Lyrics: Embracing the Myths, Traditions, Superstitions, and Folk-Lore of the Plant Kingdom
+Author: Folkard, Richard
+Birth Year: null
+Subjects: Plants -- Folklore
+
+ID: 43302
+Title: "The Kingdom of God Is Within You": Christianity Not as a Mystic Religion but as a New Theory of Life
+Author: Tolstoy, Leo, graf
+Birth Year: 1828
+Subjects: Christianity -- Controversial literature, Christianity -- Essence, genius, nature, Government, Resistance to -- Religious aspects -- Christianity, Nonviolence -- Religious aspects -- Christianity
+
+ID: 64977
+Title: The Protocols and World Revolution: Including a Translation and Analysis of the "Protocols of the Meetings of the Zionist Men of Wisdom"
+Author: Nilus, Sergiei
+Birth Year: 1862
+Subjects: Antisemitic literature, Antisemitism -- Sources, Communism, Hoaxes, Judaism -- Controversial literature, Literary forgeries and mystifications
+
+ID: 48445
+Title: L'assedio di Firenze
+Author: Guerrazzi, Francesco Domenico
+Birth Year: 1804
+Subjects: Florence (Italy) -- History -- Siege, 1529-1530 --Fiction, Historical fiction
+
+ID: 49038
+Title: The Underground Railroad from Slavery to Freedom: A comprehensive history
+Author: Siebert, Wilbur Henry
+Birth Year: 1866
+Subjects: Fugitive slaves -- United States, Underground Railroad
+
+ID: 63058
+Title: Saggio di ricerche sulla satira contro il villano
+Author: Merlini, Domenico
+Birth Year: null
+Subjects: Italian literature -- To 1400 -- History and criticism, Peasants -- Europe, Peasants in literature
+
+ID: 73695
+Title: Domestic Annals of Scotland from the Reformation to the Revolution, Volume 2 (of 2)
+Author: Chambers, Robert
+Birth Year: 1802
+Subjects: Scotland -- History -- 16th century, Scotland -- History -- 17th century
+
+ID: 15784
+Title: The Chronology of Ancient Kingdoms Amended: To which is Prefix'd, A Short Chronicle from the First Memory of Things in Europe, to the Conquest of Persia by Alexander the Great
+Author: Newton, Isaac
+Birth Year: 1642
+Subjects: Bible -- Chronology, History, Ancient -- Chronology
+
+ID: 690
+Title: Proposed Roads to Freedom
+Author: Russell, Bertrand
+Birth Year: 1872
+Subjects: Anarchism, Guild socialism, Socialism, Syndicalism
+
+ID: 8086
+Title: Down and Out in the Magic Kingdom
+Author: Doctorow, Cory
+Birth Year: 1971
+Subjects: Florida -- Fiction, Immortalism -- Fiction, Science fiction, Walt Disney World (Fla.) -- Fiction
+
+ID: 59828
+Title: The String of Pearls; Or, The Barber of Fleet Street. A Domestic Romance.
+Author: Prest, Thomas Peckett
+Birth Year: 1810
+Subjects: Bakers -- Fiction, Barbers -- Fiction, Cannibalism -- Fiction, Fleet Street (London, England) -- Fiction, Historical fiction, Horror tales, London (England) -- Social life and customs -- 18th century -- Fiction, Missing persons -- Fiction, Murder -- Fiction, Mystery fiction, Revenge -- Fiction, Suspense fiction, Todd, Sweeney (Legendary character) -- Fiction, Young women -- Fiction
+
+ID: 40814
+Title: Ruth Hall: A Domestic Tale of the Present Time
+Author: Fern, Fanny
+Birth Year: 1811
+Subjects: Domestic fiction, Married women -- Fiction
+
+ID: 14811
+Title: The new freedom : $b a call for the emancipation of the generous energies of a people
+Author: Wilson, Woodrow
+Birth Year: 1856
+Subjects: United States -- Politics and government -- 1913-1921, United States -- Social conditions -- 1865-1918
+
+ID: 21829
+Title: A Treatise on Domestic Economy; For the Use of Young Ladies at Home and at School
+Author: Beecher, Catharine Esther
+Birth Year: 1800
+Subjects: Home economics
+
+ID: 73694
+Title: Domestic Annals of Scotland from the Reformation to the Revolution, Volume 1 (of 2)
+Author: Chambers, Robert
+Birth Year: 1802
+Subjects: Scotland -- History -- 16th century, Scotland -- History -- 17th century
+
+ID: 223
+Title: The wisdom of Father Brown
+Author: Chesterton, G. K. (Gilbert Keith)
+Birth Year: 1874
+Subjects: Brown, Father (Fictitious character) -- Fiction, Catholics -- Fiction, Clergy -- Fiction, Detective and mystery stories, English, England -- Fiction
+
+ID: 44112
+Title: Argentina, Legend and History
+Author: Blasco Ibáñez, Vicente
+Birth Year: 1867
+Subjects: Argentina, Argentina -- History, Spanish language -- Readers
+
+ID: 53964
+Title: The Sins of the Cities of the Plain; or, The Recollections of a Mary-Ann: with Short Essays on Sodomy and Tribadism
+Author: Saul, Jack
+Birth Year: 1857
+Subjects: Gay men -- England -- Fiction
+
